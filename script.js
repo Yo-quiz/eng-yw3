@@ -51,7 +51,7 @@ const yoKaiList = [
   { "name": "Sing Kong", "img": "Peter_Punki.png" },
   { "name": "Slippy", "img": "Pantuflo.png" },
   { "name": "Repossessor", "img": "Reahucio.png" },
-  { "name": "Mr. Blockhead", aliases: ["Mr. Blockhead", "Mr Blockhead"] "img": "Radiopatio.png" },
+  { "name": "Mr. Blockhead", aliases: ["Mr. Blockhead", "Mr Blockhead"], "img": "Radiopatio.png" },
   { "name": "Steaking", "img": "Filete_II.png" },
   { "name": "Showbonyan", "img": "Showbonyan.png" },
   { "name": "The Jawsome Kid", "img": "Tiburon_Tiburcio" },
