@@ -427,7 +427,7 @@ function stopTimer() {
 document.getElementById("answer-input").addEventListener("input", checkAnswer);
 
 // Inicializar el marcador y temporizador al cargar la página
-updateScoreDisplay(); // Inicializa la puntuación en 0/total
+updateScoreDisplay(); 
 startTimer();
 
 window.addEventListener("beforeunload", (event) => {
