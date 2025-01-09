@@ -196,7 +196,7 @@ const yoKaiList = [
   { "name": "Yoganalisten", "img": "Yoguididacta.png" },
   { "name": "Judgebrick", "img": "Frauduralla.png" },
   { "name": "Urnfulfilled", "img": "Insaciablo.png" },
-  { "name": "Sad 2 the Bone", "img": "Penancio.png" },
+  { "name": "Sad to the Bone", "img": "Penancio.png" },
   { "name": "Venoctobot", "img": "Venoctobot.png" },
   { "name": "Orcanos Lu Bu", "img": "Demoniorco_Lu_Bu.png" },
   { "name": "Kyubot", "img": "Kyubot.png" },
